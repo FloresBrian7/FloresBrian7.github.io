@@ -12,7 +12,7 @@ html{
 /* SECCION INICIO */
 .inicio{
     background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)),
-    url("img/fondo.jpg");
+    url("fondo.jpg");
     background-size: cover;
     background-position: center center;
     color: #fff;
@@ -172,7 +172,7 @@ html{
     padding: 80px 0 100px 0;
     text-align: center;
     background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)),
-    url("img/habilidades.jpg");
+    url("habilidades.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
